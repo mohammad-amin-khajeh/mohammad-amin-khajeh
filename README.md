@@ -1,7 +1,7 @@
 # about me:
-- Aspiring junior sofware engineer
+- Aspiring junior software engineer
 - I know **bash** and some **python**, looking to get better at this
-- I study **translation** at the university of isfahan(but mostly engage in computer sutff.)
+- I study **translation** at the university of isfahan(but mostly engage in computer stuff.)
 - I use **endeavourOS** btw
 - here's my [linkedin](https://www.linkedin.com/in/mohammadamin-khajeh-koolaki-4b62732b1/) btw
 <!---
